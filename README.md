@@ -1,5 +1,10 @@
 # toiletcli
 
+## Note
+**This branch is deprecated.** There are better options for ANSI codes, such as `Termion` or `crossterm`, about which I did not know before. Flag parsing still might be useful, and I will try to keep this crate as a minimal library for very common utilities that you don't want to reimplement for tenth time.
+
+---
+
 Minimal framework for command line applications.
 This is I-use-the-language-for-the-first-time project (I had a lot of fun with Rust so far).
 
